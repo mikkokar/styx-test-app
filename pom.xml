@@ -21,7 +21,7 @@
       <dependency>
         <groupId>com.hotels.styx</groupId>
         <artifactId>styx-api</artifactId>
-        <version>1.0.0.beta8</version>
+        <version>1.0.0.beta9</version>
       </dependency>
       <dependency>
         <groupId>com.hotels.styx</groupId>
